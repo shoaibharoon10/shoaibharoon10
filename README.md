@@ -2,7 +2,7 @@
 
 # ⚡ Muhammad Shoaib
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Chemist+%7C+Full+Stack+Developer;Generative+AI+%7C+Agentic+AI+%7C+Data+Analytics;Building+AI-Powered+Systems+for+Real-World+Problems;Deputy+General+Manager+QC+%7C+Tech+Enthusiast;Turning+Ideas+into+Intelligent+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Chemist+%7C+Full+Stack+Developer;Generative+AI+%7C+Agentic+AI+%7C+Data+Analytics;Building+AI-Powered+Systems+for+Real-World+Problems;Senior+Chemist+QC+%7C+Tech+Enthusiast;Turning+Ideas+into+Intelligent+Products" />
 
 <br/>
 
