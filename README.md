@@ -22,8 +22,8 @@ Current Role:
   - Senior QC Chemist at ENAR Petroleum Refining Facility
 
 Background:
-  - MSc Organic Chemistry
   - M.Phil Chemistry (Renewable Energy)
+  - MSc Organic Chemistry
 
 Tech Focus:
   - Generative AI
