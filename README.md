@@ -43,7 +43,7 @@ Mission:
 * 🤖 Building AI-Powered Multi-Agent Systems
 * 🧠 Learning Agentic AI & OpenAI Agent SDK
 * 🌐 Developing Full Stack Applications with Next.js
-* 📊 Data Analytics using Python, SQL, Power BI & Excel
+* 📊 Data Analytics using Python, R, SQL, Power BI & Excel
 * ⚗️ Applying scientific thinking to AI & automation
 * 🔬 Working professionally in Petroleum Refining & Quality Control
 
