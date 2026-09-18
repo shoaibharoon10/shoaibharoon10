@@ -1,229 +1,59 @@
-<div align="center">
+# Muhammad Shoaib
 
-# ⚡ Muhammad Shoaib
+AI Engineer based in Karachi, Pakistan. I build generative and agentic AI systems — multi-agent workflows, RAG pipelines, and the full-stack applications around them.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Chemist+%7C+Full+Stack+Developer;Generative+AI+%7C+Agentic+AI+%7C+Data+Analytics;Building+AI-Powered+Systems+for+Real-World+Problems;Senior+Chemist+QC+%7C+Tech+Enthusiast;Turning+Ideas+into+Intelligent+Products" />
+My day job is Senior QC Chemist and ISO/IEC 17025 Technical Lead Auditor at a petroleum refining facility, which is where most of my engineering problems come from: lab data trapped in spreadsheets, manual compliance records, and reporting workflows that should have been automated a decade ago.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:00F7FF&height=240&section=header&text=shoaibharoon10&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Analyst%20•%20Full%20Stack%20Developer%20•%20Chemist&descAlignY=58&descSize=18"/>
-
-</div>
+Open to freelance and remote work in AI engineering, automation, and data analytics.
 
 ---
 
-# 💫 About Me
+## Currently working on
 
-```yaml
-Name: Muhammad Shoaib
-Username: shoaibharoon10
+- Multi-agent systems using the OpenAI Agents SDK and Claude
+- Retrieval-augmented chatbots and conversational assistants (including WhatsApp deployments)
+- Replacing manual laboratory and QC processes with full-stack applications
 
-Current Role:
-  - Senior QC Chemist at ENAR Petroleum Refining Facility
+## Selected projects
 
-Background:
-  - M.Phil Chemistry (Renewable Energy)
-  - MSc Organic Chemistry
+**[Hazir AI Orchestrator](https://github.com/shoaibharoon10/Hazir-AI-Orchestrator)**
+Service orchestration platform for the informal economy. Multi-agent workflow that parses Urdu and Roman Urdu requests, matches them to available service providers, and coordinates the handoff. FastAPI backend with mobile client integration.
 
-Tech Focus:
-  - Generative AI
-  - Agentic AI
-  - Full Stack Development
-  - Data Analytics
-  - Automation Systems
+**[Todo AI Chatbot](https://github.com/shoaibharoon10/todo-ai-chatbot-phase3)**
+Conversational task management system. Natural-language input is parsed into structured actions against a persistent backend, so tasks can be created, queried, and updated without leaving the chat interface.
 
-Mission:
-  - Building intelligent AI systems that solve real-world problems
-````
+**[ChessKingdom3D](https://github.com/shoaibharoon10/ChessKingdom3D)**
+Browser-based 3D chess implementation. Covers move generation, rule validation, and game-state management alongside the rendering layer.
 
-<br/>
+**[Humanoid Robotics Course Book](https://github.com/shoaibharoon10/humanoid-robotics-course-book)**
+Structured learning resource covering humanoid robotics fundamentals — kinematics, control, and perception concepts organised into a teachable sequence.
 
-## 🚀 What I Do
+## Technical skills
 
-* 🤖 Building AI-Powered Multi-Agent Systems
-* 🧠 Learning Agentic AI & OpenAI Agent SDK
-* 🌐 Developing Full Stack Applications with Next.js
-* 📊 Data Analytics using Python, R, SQL, Power BI & Excel
-* ⚗️ Applying scientific thinking to AI & automation
-* 🔬 Working professionally in Petroleum Refining & Quality Control
+| Area | Tools |
+| --- | --- |
+| AI / ML | OpenAI Agents SDK, Claude, LangChain, RAG, TensorFlow, PyTorch |
+| Backend | Python, FastAPI, Node.js, REST APIs |
+| Frontend | TypeScript, Next.js, React, Tailwind CSS |
+| Data | SQL, PostgreSQL, MySQL, MongoDB, Pandas, Power BI, R |
+| Infrastructure | Docker, Git, Firebase, Vercel |
 
----
+## Background
 
-# 🧠 Tech Stack
+- **M.Phil Chemistry** (Renewable Energy) · **M.Sc Organic Chemistry**
+- **Senior QC Chemist**, petroleum refining facility — since 2015
+- **ISO/IEC 17025** Technical Lead Auditor
+- **Google Data Analytics** Professional Certificate
 
-<div align="center">
+## Contact
 
-### 👨‍💻 Programming & Development
+- Email — [shoaibharoon10@gmail.com](mailto:shoaibharoon10@gmail.com)
+- LinkedIn — [linkedin.com/in/muhammad-shoaib-haroon](https://linkedin.com/in/muhammad-shoaib-haroon)
+- Upwork — [upwork.com/freelancers/mohammadshoaib4](https://www.upwork.com/freelancers/mohammadshoaib4)
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nextjs,react,nodejs,tailwind,fastapi" />
+<!--
+Optional. Uncomment if you want one stats card at the bottom.
+Keep it to one — a wall of widgets reads as junior.
 
-### 🤖 AI • Data • Cloud
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,mysql,postgresql,firebase,docker,git,github,vscode" />
-
-### 🎨 Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-
-</div>
-
----
-
-# 🏆 Featured Projects
-
-## 🚀 1. Hazir-AI-Orchestrator
-
-> AI-powered service orchestration platform for the informal economy.
-
-### ✨ Features
-
-* Multi-Agent AI Workflow
-* Urdu/Roman Urdu NLP
-* FastAPI Backend
-* Mobile App Integration
-* AI Service Coordination
-
-🔗 Repository:
-[![Repo](https://img.shields.io/badge/GitHub-Hazir--AI--Orchestrator-111827?style=for-the-badge\&logo=github)](https://github.com/shoaibharoon10/Hazir-AI-Orchestrator)
-
----
-
-## ♟️ 2. ChessKingdom3D
-
-> Interactive modern chess experience with immersive visuals.
-
-🔗 Repository:
-[![Repo](https://img.shields.io/badge/GitHub-ChessKingdom3D-111827?style=for-the-badge\&logo=github)](https://github.com/shoaibharoon10/ChessKingdom3D)
-
----
-
-## 🤖 3. humanoid-robotics-course-book
-
-> Robotics learning resources and humanoid robotics concepts.
-
-🔗 Repository:
-[![Repo](https://img.shields.io/badge/GitHub-Humanoid--Robotics--Course--Book-111827?style=for-the-badge\&logo=github)](https://github.com/shoaibharoon10/humanoid-robotics-course-book)
-
----
-
-## 💬 4. todo-ai-chatbot-phase3
-
-> AI-integrated productivity and chatbot system.
-
-🔗 Repository:
-[![Repo](https://img.shields.io/badge/GitHub-Todo--AI--Chatbot--Phase3-111827?style=for-the-badge\&logo=github)](https://github.com/shoaibharoon10/todo-ai-chatbot-phase3)
-
----
-
-## 🗄️ 5. DecodeLabs-FullStack-Week3-Database
-
-> Full stack database learning & backend practice repository.
-
-🔗 Repository:
-[![Repo](https://img.shields.io/badge/GitHub-DecodeLabs--FullStack--Week3--Database-111827?style=for-the-badge\&logo=github)](https://github.com/shoaibharoon10/DecodeLabs-FullStack-Week3-Database)
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoaibharoon10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibharoon10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibharoon10&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibharoon10&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shoaibharoon10/shoaibharoon10/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🏅 Certifications & Expertise
-
-<div align="center">
-
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?style=for-the-badge\&logo=google)
-![Power BI](https://img.shields.io/badge/Microsoft-PowerBI-yellow?style=for-the-badge\&logo=powerbi)
-![Python](https://img.shields.io/badge/Python-Automation-green?style=for-the-badge\&logo=python)
-![AI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
-![ISO 17025](https://img.shields.io/badge/ISO%2017025-Laboratory%20Compliance-red?style=for-the-badge)
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shoaibharoon10">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shoaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shoaibharoon10">
-<img src="https://img.shields.io/badge/GitHub-shoaibharoon10-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:shoaibharoon10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://decode-labs-full-stack-week3-database.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Current Focus
-
-```python
-while alive:
-    learn()
-    build()
-    innovate()
-    automate()
-    improve()
-```
-
----
-
-<div align="center">
-
-### 🧠 “Combining Chemistry, AI, and Engineering to build intelligent systems for the future.”
-
-<img src="https://komarev.com/ghpvc/?username=shoaibharoon10&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-
-<img src="https://raw.githubusercontent.com/shoaibharoon10/shoaibharoon10/output/snake.svg" alt="Snake animation" />
-
-</div>
-```
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=shoaibharoon10&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+-->
